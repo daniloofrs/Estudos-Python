@@ -1,0 +1,10 @@
+nome = input("Digite seu nome:")
+idade = int (input("Digite sua idade:") )
+peso = int (input("Digite seu peso:") )
+altura = float ( input("Digite sua altura:") )
+
+print ("Seu nome é:",nome)
+print ("Você tem",idade,"anos")
+print ("Seu peso é",peso)
+print ("Sua altura é",altura)
+print ("Gostou? Aperte ENTER para sair...")

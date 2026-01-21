@@ -1,0 +1,16 @@
+input ("Você quer saber a lista de pessoas mais feias?")
+import time 
+lista_de_feios = ["elano","elano de novo","Pode ser aquele viado denovo"]
+print ("A Lista de pessoas mais feias são:")
+print(lista_de_feios[0])
+time.sleep(1)
+print (lista_de_feios[1])
+time.sleep(2)
+print (lista_de_feios[2])
+time.sleep(3)
+input ("Você quer saber de mais um segredo isabela?")
+time.sleep(2)
+print ("Eu te amo demais, você é o amor da minha vida,te amo meu amor")
+time.sleep(1)
+print ("Eu não consigo viver sem você")
+input ("ACABOU.....Pressione Enter para sair...")
