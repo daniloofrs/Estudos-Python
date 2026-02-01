@@ -11,3 +11,4 @@ if entrada in produtos:
 else:
     print("Produto não encontrado. ")
 
+
